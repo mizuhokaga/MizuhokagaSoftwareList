@@ -73,14 +73,15 @@
   - PyCharm: 写 py 脚本简化某些操作
 - PostMan | Apifox : 接口测试工具 ,目前逐渐转向 Apifox
 - Docker Desktop : Windows 环境下安装容器快速部署服务,一般用于安装数据库
-
 - Typora : 写 Markdown ,已入正
-  - DrakeTyporaTheme : Typora主题，https://github.com/liangjingkanji/DrakeTyporaTheme
+  - DrakeTyporaTheme : Typora 主题,repo:https://github.com/liangjingkanji/DrakeTyporaTheme
 
 ### 数据库
 
 - DBeaver : 开源数据库可视化工具,支持的数据库比 navicat 多
 - navicat : mysql 的数据库导入导出功能比 DBeaver 好用
+- Redis for Windows ： 非官方版本 win redis,clone 下来以管理员权限执行`install_redis.cmd`.repo: https://github.com/zkteco-home/redis-windows
+- AnotherRedisDesktopManager ： Redis 桌面(GUI)管理客户端,repo: https://github.com/qishibo/AnotherRedisDesktopManager
 
 ### 远程连接
 
@@ -132,3 +133,10 @@ map ee nextTab
 map z reloadTab
 map o Vomnibar.activateInNewTab
 ```
+
+#### 附录 4 VPN
+
+使用 UU 在线工具-[在线文本加密工具](https://uutool.cn/txt-encrypt/)加密，
+解密使用[在线文本解密工具](https://uutool.cn/txt-decrypt/)，密钥是真真（我相信你你不会忘记对应的谜底）
+
+- 国内 : R5uSNB5Cbh6gbuicFMKvdO5mLMjh5MnKBNSwXgjy+2Q=
