@@ -55,7 +55,7 @@
 - node | npm | yarn : 前端基础组件,目前使用 nvm 做 SDK 版本管理
 - jdk SDK : 使用 zulu 的 openJDK, https://www.azul.com/downloads/#zulu
 - python SDK : 官网下载地址: https://www.python.org/
-- VS code : 主力`前端开发`兼`高级剪贴板`,配置通过 GitHub 账号同步
+- VS code : 主力前端开发 IDE 兼 高级剪贴板,配置通过 GitHub 账号同步
 - Sublime Text : 高级剪贴板,但由于快捷键和 vs code 大相径庭,只是偶尔用用
 
 ### 前端编程
@@ -65,8 +65,9 @@
 - HBuilder X ：开发 uniapp
 
 ### 后端编程
+- Windows Terminal : Windows11新终端好看好用了不少,Microsoft store 更新最新版后参考视频配置 https://www.bilibili.com/video/BV1Ae411v798/
 
-- maven : 依赖下载管理
+- Maven : Java 项目依赖下载管理
 
 - Jetbrains 全家桶,配置使用谷歌账号登录 Jetbrains 来配置同步，已入正
   - IntelliJ IDEA : Java 开发
