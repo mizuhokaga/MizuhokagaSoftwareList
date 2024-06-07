@@ -1,5 +1,5 @@
 # MizuhokagaSoftwareList
 
-MySoftwareList, The purpose is to facilitate reset (reinstall) the operating system for oneself.
+MizuhokagaSoftwareList, The purpose is to facilitate reset (reinstall) the operating system for oneself.
 
 - [Windows section](MizuhokagaSoftwareList-Windows.md)
