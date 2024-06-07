@@ -1,4 +1,11 @@
-# MizuhokagaSoftwareList-Windows part
+<div align="center">
+  
+# MizuhokagaSoftwareList-Windows
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable-next-line MD036 -->
+_✨ mizuhokaga 软件清单-Windows部分  ✨_
+<!-- prettier-ignore-end -->
+</div>
 
 ## C-commSoftware
 
@@ -7,21 +14,21 @@
 - [maple-font](https://github.com/subframe7536/maple-font) : 带连字和圆角的等宽字体和控制台字体
 - [Sarasa Gothic](https://github.com/be5invis/Sarasa-Gothic) : 等宽字体,目前已经转向 maple-font 和 [maple-UI](https://github.com/subframe7536/maple-font/blob/other-resources/cn-resource/maple-ui/Maple%20UI.ttf)
 - aio-runtimes : dll 一键全装工具,一键解决 ddl/c++运行库问题
-- シスター・クレア -SisterClaire- 鼠标皮肤 : 修女克蕾雅的鼠标皮肤，用了很久了，喜欢克蕾雅也很久了
+- [シスター・クレア -SisterClaire- 鼠标皮肤](https://www.youtube.com/@Sister_Claire) : 修女克蕾雅的鼠标皮肤，用了很久了，喜欢克蕾雅也很久了
 
-<div style="text-align: center;">
-  <div style="border-radius: 50%; overflow: hidden; width: 100px; height: 100px; display: inline-block;">
-    <img src="https://yt3.googleusercontent.com/ytc/AIdro_kuGBdAOZWF4REr8TTdcocOy65d69x50g2a2bowJ1hX5mM=s160-c-k-c0x00ffffff-no-rj" style="width: 100%; height: 100%;" />
-  </div>
+<!-- markdownlint-disable MD033 MD041 -->
+<div align="center">
+  <img alt="シスター・クレア" src="https://yt3.googleusercontent.com/ytc/AIdro_kuGBdAOZWF4REr8TTdcocOy65d69x50g2a2bowJ1hX5mM=s160-c-k-c0x00ffffff-no-rj" width="128" height="128"/>
+  <p>シスター・クレア</p>
 </div>
 
 ### 常用必装软件
 
 - [StartAllBack](https://lizhi.shop/site/products/id/233) : Win 开始菜单任务栏增强工具，为了解决目前 win11 任务栏不能置于左侧的问题，已入正
 - [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/all/#product-desktop-release) : 日常习惯使用的浏览器,定制浏览器工具栏的功能是刚需,插件列表见附录 1
-- Chrome : 谷歌浏览器,用于访问特定网站,确保与 Firefox 的浏览记录隔离
+- [Chrome](https://www.google.com/intl/en_sg/chrome/) : 谷歌浏览器,用于访问特定网站,确保与 Firefox 的浏览记录隔离
 - [PixPin](https://pixpinapp.com/) : 带 OCR 的截图/贴图工具,用于替换 Snipaste
-- 7-zip | ([BandZip](https://www.bandisoft.com/bandizip/)) : 解压缩软件,BandZip 虽然有广告但是习惯了,7-zip 习惯专用于.7z 格式
+- [7-zip](https://7-zip.org/) | ([BandZip](https://www.bandisoft.com/bandizip/)) : 解压缩软件,BandZip 虽然有广告但是习惯了,7-zip 习惯专用于.7z 格式
 - [图吧工具箱](https://www.tbtool.cn/) :内置了 Everthing、AIDA64、水晶雫 DiskInfo 等大量实用工具
 - [PowerToys](https://github.com/microsoft/PowerToys/) : 微软官方的小工具合集,一般用于快捷键重新映射
 - [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) : 显示当前网速、CPU 及内存利用率的桌面悬浮窗软件，也支持任务栏显示
@@ -43,7 +50,7 @@
 
 ### 办公软件
 
-- WPS Office: 免费使用,所以替代 Office，安装后 win+s 搜`配置工具`关闭广告
+- [WPS Office](https://www.wps.cn/): 免费使用,所以替代 Office，安装后 win+s 搜`配置工具`关闭广告
 - [腾讯会议](https://meeting.tencent.com/) : 工作交流远程开会
 
 ### 系统重装
@@ -84,7 +91,7 @@
 
 - [Jetbrains](https://www.jetbrains.com/) 全家桶,配置使用谷歌账号登录 Jetbrains 来配置同步，已入正
   - [IntelliJ](https://www.jetbrains.com/idea/) IDEA : Java 开发
-  - [PyCharm](https://www.jetbrains.com/pycharm/): 写 py 脚本简化某些操作
+  - [PyCharm](https://www.jetbrains.com/pycharm/) : 写 py 脚本简化某些操作
 - PostMan | Apifox : 接口测试工具 ,目前逐渐转向 Apifox
 - [Docker Desktop](https://www.docker.com/products/docker-desktop/) : Windows 环境下安装容器快速部署服务,一般用于安装数据库
 
