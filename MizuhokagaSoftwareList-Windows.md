@@ -64,7 +64,7 @@ _✨ mizuhokaga 软件清单-Windows部分  ✨_
 ### 基础工具
 
 - [vfox](https://github.com/version-fox/vfox) : 跨平台版本管理器,支持 Windows(非 WSL),[文档地址](https://vfox.lhan.me/zh-hans/guides/quick-start.html)
-  - 挂载vfox到powershell时,以管理员身份打开终端,`set-ExecutionPolicy RemoteSigned`
+  - 挂载 vfox 到 powershell 时,以管理员身份打开终端,`set-ExecutionPolicy RemoteSigned`
 - [Git](https://www.git-scm.com/) : 拉取/推送代码
   - git config --global user.name "yourName"
   - git config --global user.email "yourEmail"
@@ -94,7 +94,9 @@ _✨ mizuhokaga 软件清单-Windows部分  ✨_
   - [IntelliJ](https://www.jetbrains.com/idea/) IDEA : Java 开发
   - [PyCharm](https://www.jetbrains.com/pycharm/) : 写 py 脚本简化某些操作
 - [PostMan](https://www.postman.com/) | [Apifox](https://www.apifox.cn/) : 接口测试工具 ,目前逐渐转向 Apifox
-- [Docker Desktop](https://www.docker.com/products/docker-desktop/) : Windows 环境下安装容器快速部署服务,一般用于安装数据库
+- [Docker Desktop](https://www.docker.com/products/docker-desktop/) : Windows 环境下安装容器快速部署服务,一般用于安装本地开发的数据库
+  - [docker 安装 mysql](https://blog.csdn.net/qq_44831907/article/details/136336729)
+  - [docker 安装 postgres](https://blog.csdn.net/qq_44831907/article/details/139595743)
 
 ### 数据库
 
