@@ -24,7 +24,8 @@ _✨ mizuhokaga 软件清单-Windows部分  ✨_
 
 ### 常用必装软件
 
-- [StartAllBack](https://lizhi.shop/site/products/id/233) : Win 开始菜单任务栏增强工具，为了解决目前 win11 任务栏不能置于左侧的问题，已入正
+- [StartAllBack](https://lizhi.shop/site/products/id/233) : Win 开始菜单任务栏增强工具，为了解决目前 win11 任务栏不能置于左侧的问题,已在数码荔枝入正
+- [Listary Pro](https://lizhi.shop/site/products/id/58) : 本地文件搜索工具,软件快捷启动器,已在数码荔枝入正
 - [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/all/#product-desktop-release) : 日常习惯使用的浏览器,定制浏览器工具栏的功能是刚需,插件列表见附录 1
 - [Chrome](https://www.google.com/intl/en_sg/chrome/) : 谷歌浏览器,用于访问特定网站,确保与 Firefox 的浏览记录隔离
 - [PixPin](https://pixpinapp.com/) : 带 OCR 的截图/贴图工具,用于替换 Snipaste
@@ -92,7 +93,7 @@ _✨ mizuhokaga 软件清单-Windows部分  ✨_
 - [Jetbrains](https://www.jetbrains.com/) 全家桶,配置使用谷歌账号登录 Jetbrains 来配置同步，已入正
   - [IntelliJ](https://www.jetbrains.com/idea/) IDEA : Java 开发
   - [PyCharm](https://www.jetbrains.com/pycharm/) : 写 py 脚本简化某些操作
-- PostMan | Apifox : 接口测试工具 ,目前逐渐转向 Apifox
+- [PostMan](https://www.postman.com/) | [Apifox](https://www.apifox.cn/) : 接口测试工具 ,目前逐渐转向 Apifox
 - [Docker Desktop](https://www.docker.com/products/docker-desktop/) : Windows 环境下安装容器快速部署服务,一般用于安装数据库
 
 ### 数据库
@@ -114,7 +115,7 @@ _✨ mizuhokaga 软件清单-Windows部分  ✨_
 - 篡改猴 : 编写脚本增强网上冲浪体验,脚本备份在 GoogleDrive
 - 浮图秀 : 鼠标悬浮图片上放大图片,主要用于查看视频网站封面、头像等
 - BiliMini : Bilibili 通知工具
-- Custom Scrollbars : 个性化滚动条, 滚动条颜色设置 #e03997
+- Custom Scrollbars : 个性化滚动条,滚动条颜色设置 #e03997
 - Inifinity 新标签页 : 自定义新标签页,配置使用 QQ 账号登录后云端同步
 - Stylus : 自定义页面样式管理器,自定义样式备份在 GoogleDrive
 - Vimium C : 全键盘操作浏览器的工具
