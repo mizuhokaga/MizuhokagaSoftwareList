@@ -1,5 +1,5 @@
 <div align="center">
-  
+
 # MizuhokagaSoftwareList-Windows
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable-next-line MD036 -->
@@ -101,7 +101,7 @@ _✨ mizuhokaga 软件清单-Windows部分  ✨_
 ### 数据库
 
 - [DBeaver](https://dbeaver.io/download/) : 开源数据库可视化工具,支持的数据库比 navicat 多
-- navicat : mysql 的数据库导入导出功能比 DBeaver 好用
+- [Navicat](https://github.com/yrmatou/Navicat-Premium-15) : mysql 的数据库导入导出功能比 DBeaver 好用
 - [Redis for Windows](https://github.com/zkteco-home/redis-windows) ： 非官方版本 win redis,clone 下来以管理员权限执行`install_redis.cmd`.repo: https://github.com/zkteco-home/redis-windows
 - [AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager) ： Redis 桌面(GUI)管理客户端
 
