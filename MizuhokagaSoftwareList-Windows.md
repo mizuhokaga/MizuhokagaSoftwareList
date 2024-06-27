@@ -107,7 +107,8 @@ _✨ mizuhokaga 软件清单-Windows部分  ✨_
 
 ### 远程连接
 
-- [XTerminal](https://terminal.icu/) | [MobaXterm](https://mobaxterm.mobatek.net/) : 终端工具,XTerminal 收费但小功能细节比 MobaXterm 好用,目前逐渐转向 XTerminal
+- [XTerminal](https://terminal.icu/) | [MobaXterm](https://mobaxterm.mobatek.net/) : SSH工具,XTerminal 收费但小功能细节比 MobaXterm 好用,目前逐渐转向 XTerminal
+- [MobaXterm](https://github.com/malaohu/MobaXterm-GenKey) : 之前习惯的SSH工具,虽然被 XTerminal 替代了但是由于支持多种协议(ftp、sftp和RDP等)仍然会保留
 - Cisco Secure Client : 连接公司内网的 VPN 工具
 
 ---
