@@ -11,8 +11,7 @@ _✨ mizuhokaga 软件清单-Windows部分  ✨_
 
 ### 基础必装软件
 
-- [maple-font](https://github.com/subframe7536/maple-font) : 带连字和圆角的等宽字体和控制台字体
-- [Sarasa Gothic](https://github.com/be5invis/Sarasa-Gothic) : 等宽字体,目前已经转向 maple-font 和 [maple-UI](https://github.com/subframe7536/maple-font/blob/other-resources/cn-resource/maple-ui/Maple%20UI.ttf)
+- [maple-font](https://github.com/subframe7536/maple-font) [maple-UI](https://github.com/subframe7536/maple-font/blob/other-resources/cn-resource/maple-ui/Maple%20UI.ttf) : 带连字和圆角的等宽字体、控制台字体和 UI 字体, 用于替换[Sarasa Gothic](https://github.com/be5invis/Sarasa-Gothic) 等宽字体,
 - aio-runtimes : dll 一键全装工具,一键解决 ddl/c++运行库问题
 - [シスター・クレア -SisterClaire- 鼠标皮肤](https://www.youtube.com/@Sister_Claire) : 修女克蕾雅的鼠标皮肤，用了很久了，喜欢克蕾雅也很久了
 
@@ -27,8 +26,8 @@ _✨ mizuhokaga 软件清单-Windows部分  ✨_
 - [StartAllBack](https://lizhi.shop/site/products/id/233) : Win 开始菜单任务栏增强工具，为了解决目前 win11 任务栏不能置于左侧的问题,已在数码荔枝入正
 - [Listary Pro](https://lizhi.shop/site/products/id/58) : 本地文件搜索工具,软件快捷启动器,已在数码荔枝入正
 - [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/all/#product-desktop-release) : 日常习惯使用的浏览器,定制浏览器工具栏的功能是刚需,插件列表见附录 1
-- [Chrome](https://www.google.com/intl/en_sg/chrome/) : 谷歌浏览器,用于访问特定网站,确保与 Firefox 的浏览记录隔离
-- [PixPin](https://pixpinapp.com/) : 带 OCR 的截图/贴图工具,用于替换 Snipaste
+- [Chrome](https://www.google.com/intl/en_sg/chrome/) : 谷歌浏览器,用于访问特定网站,确保与 Firefox 的浏览记录隔离,相比无痕浏览我更喜欢软件层面隔离
+- [PixPin](https://pixpinapp.com/) : 带 OCR 的截图/贴图工具,用于替换 [Snipaste](https://www.snipaste.com/)
 - [7-zip](https://7-zip.org/) | ([BandZip](https://www.bandisoft.com/bandizip/)) : 解压缩软件,BandZip 虽然有广告但是习惯了,7-zip 习惯专用于.7z 格式
 - [图吧工具箱](https://www.tbtool.cn/) :内置了 Everthing、AIDA64、水晶雫 DiskInfo 等大量实用工具
 - [PowerToys](https://github.com/microsoft/PowerToys/) : 微软官方的小工具合集,一般用于快捷键重新映射
@@ -38,11 +37,17 @@ _✨ mizuhokaga 软件清单-Windows部分  ✨_
 - 2345 看图王 : 习惯使用的照片查看软件,用的是网上修改的去广告版
 - 软媒魔方 Docker : 实现 Mac 软件坞效果的小巧软件,美观易用
 - [Steam](https://store.steampowered.com/) : 游戏分发平台
-- Wallpaper Engine : 动态壁纸软件
+- Wallpaper Engine : 动态壁纸软件,多屏养眼神器
+
+### 图书管理
+
+- [koodo-reader](https://calibre-ebook.com/) : 习惯使用的开源电子书管理工具,界面漂亮!一般用来看技术 PDF 和轻小说
+- [calibre](https://calibre-ebook.com/) : 也是电子书管理工具,我一般作为转换图书格式、解决 EPUB 格式在 koodo 读取失败的工具
+- [Sumatra PDF](https://www.sumatrapdfreader.org/free-pdf-reader) : 小巧的阅读器,之前用过,之后被 koodo 替代
 
 ### 视频音频
 
-- PotPlayer : 习惯使用的视频播放器
+- [PotPlayer](https://potplayer.tv/) : 习惯使用的视频播放器
 
 ### 聊天通讯
 
@@ -56,8 +61,12 @@ _✨ mizuhokaga 软件清单-Windows部分  ✨_
 
 ### 系统重装
 
-- 傲梅分区助手
+- [傲梅分区助手](https://www.disktool.cn/): 无损分区工具
 - [Windows 11 安装助手](https://www.microsoft.com/zh-cn/software-download/windows11/): 微软官方的 Windows 11 安装/重装软件.[win10 是这个](https://www.microsoft.com/zh-cn/software-download/windows10%20),Win10 密钥可以试试：W269N-WFGWX-YVC9B-4J6C9-T83GX
+
+### 暂未分类
+
+- [向日葵远程控制](https://sunlogin.oray.com/download) : 习惯的远程控制软件
 
 ## D-devSoftware
 
@@ -75,7 +84,7 @@ _✨ mizuhokaga 软件清单-Windows部分  ✨_
 - [python](https://www.python.org/): python SDK
 - [VS code](https://code.visualstudio.com/): 主力前端开发 IDE 兼 高级剪贴板,配置通过 GitHub 账号同步
 - [Sublime Text](https://www.sublimetext.com/) : 高级剪贴板,但由于快捷键和 vs code 大相径庭,只是偶尔用用
-- [Typora](https://typora.io/) : 写 Markdown ,已入正
+- [Typora](https://typora.io/) : 写 Markdown ,已入正 ,激活码在 Gmail 中搜 Typora
   - [DrakeTyporaTheme](https://github.com/liangjingkanji/DrakeTyporaTheme) : Typora 主题
 
 ### 前端编程
