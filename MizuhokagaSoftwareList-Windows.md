@@ -17,7 +17,7 @@ _✨ mizuhokaga 软件清单-Windows部分  ✨_
 
 <!-- markdownlint-disable MD033 MD041 -->
 <div align="center">
-  <img alt="シスター・クレア" src="https://yt3.googleusercontent.com/ytc/AIdro_kuGBdAOZWF4REr8TTdcocOy65d69x50g2a2bowJ1hX5mM=s160-c-k-c0x00ffffff-no-rj" width="128" height="128"/>
+  <img alt="シスター・クレア" src="SisterClaire.jpg" width="128" height="128"/>
   <p>シスター・クレア</p>
 </div>
 
@@ -110,14 +110,14 @@ _✨ mizuhokaga 软件清单-Windows部分  ✨_
 ### 数据库
 
 - [DBeaver](https://dbeaver.io/download/) : 开源数据库可视化工具,支持的数据库比 navicat 多
-- [Navicat](https://github.com/yrmatou/Navicat-Premium-15) : mysql 的数据库导入导出功能比 DBeaver 好用
+- [Navicat Premium Lite](https://www.navicat.com.cn/download/navicat-premium-lite) : mysql 的数据库导入导出功能比 DBeaver 好用,使用 Navicat Premium Lite 就能满足我目前的需求。备份等功能还是建议 [Navicat Premium](https://github.com/yrmatou/Navicat-Premium-15)
 - [Redis for Windows](https://github.com/zkteco-home/redis-windows) ： 非官方版本 win redis,clone 下来以管理员权限执行`install_redis.cmd`.repo: https://github.com/zkteco-home/redis-windows
-- [AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager) ： Redis 桌面(GUI)管理客户端
+- [AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager) ： Redis 桌面 GUI 管理客户端
 
 ### 远程连接
 
 - [XTerminal](https://terminal.icu/) | [MobaXterm](https://mobaxterm.mobatek.net/) : SSH工具,XTerminal 收费但小功能细节比 MobaXterm 好用,目前逐渐转向 XTerminal
-- [MobaXterm](https://github.com/malaohu/MobaXterm-GenKey) : 之前习惯的SSH工具,虽然被 XTerminal 替代了但是由于支持多种协议(ftp、sftp和RDP等)仍然会保留
+- [MobaXterm](https://github.com/malaohu/MobaXterm-GenKey) : 之前习惯的 SSH 工具,虽然被 XTerminal 替代了但是由于支持多种协议(FTP、SFTP 和 RDP 等)仍然会保留
 - Cisco Secure Client : 连接公司内网的 VPN 工具
 
 ---
