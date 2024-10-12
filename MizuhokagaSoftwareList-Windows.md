@@ -66,7 +66,8 @@ _✨ mizuhokaga 软件清单-Windows部分  ✨_
 
 ### 系统重装
 
-- [傲梅分区助手](https://www.disktool.cn/): 无损分区工具,分区需求也会用 图吧工具箱的 `DiskGenius`
+- [傲梅分区助手](https://www.disktool.cn/): 无损分区工具
+- DiskGenius : 图吧工具箱的附带的分区工具
 - [Windows 11 安装助手](https://www.microsoft.com/zh-cn/software-download/windows11/): 微软官方的 Windows 11 安装/重装软件.
   - [win10 是这个](https://www.microsoft.com/zh-cn/software-download/windows10%20),Win10 密钥可以试试：W269N-WFGWX-YVC9B-4J6C9-T83GX
 
@@ -130,7 +131,7 @@ _✨ mizuhokaga 软件清单-Windows部分  ✨_
 
 #### 附录 1 FireFox 插件清单
 
-- 篡改猴 : 编写脚本增强网上冲浪体验,脚本备份在 GoogleDrive
+- 篡改猴 : 编写脚本增强网上冲浪体验,脚本清单备份在 GoogleDrive ,也可以参考附录2
 - 浮图秀 : 鼠标悬浮图片上放大图片,主要用于查看视频网站封面、头像等
 - BiliMini : Bilibili 通知工具
 - Custom Scrollbars : 个性化滚动条,滚动条颜色设置 #e03997
@@ -139,14 +140,19 @@ _✨ mizuhokaga 软件清单-Windows部分  ✨_
 - Vimium C : 全键盘操作浏览器的工具
 - SingleFile : 将页面保存未单个 HTML 文件
 - OneTab : 标签页存储器
-- AdBlocker : 广告屏蔽
-
+- AdBlocker Ultimate : 广告屏蔽
+- 沙拉查词 : 网页划词翻译
+- 沉浸式翻译 : 一键翻译网页
+- Dark Reader : 网页暗色
+- Octotree - GitHub code tree : GitHub树状结构查看repo文件
+- SingleFile : 将一个完整的页面保存到单个 HTML 文件中,用于归档网页至本地
 - Sleeping Hatsune Miku Animated : miku 动态主题
 
 #### 附录 2 篡改猴脚本清单
 
 - [AC-baidu-重定向优化百度搜狗谷歌必应搜索*favicon*双列](https://greasyfork.org/zh-TW/scripts/14178-ac-baidu-%E9%87%8D%E5%AE%9A%E5%90%91%E4%BC%98%E5%8C%96%E7%99%BE%E5%BA%A6%E6%90%9C%E7%8B%97%E8%B0%B7%E6%AD%8C%E5%BF%85%E5%BA%94%E6%90%9C%E7%B4%A2-favicon-%E5%8F%8C%E5%88%97)
 - Bilibili Evolved
+- bilibili 页面净化大师 : 多种方式自定义屏蔽,过滤不想看的首页推荐视频
 - CSDN 去广告沉浸阅读模式
 - 本地 YouTube 下載器
 - 知乎增强
@@ -154,7 +160,7 @@ _✨ mizuhokaga 软件清单-Windows部分  ✨_
 - Pixiv 增强
 - 贴吧全能助手(第三方修改)
 - 网盘自动填写访问码【威力加强版】
-- bilibili 页面净化大师
+- Youtube油管视频播放量优化显示
 
 #### 附录 3 Vimium C - 全键盘操作浏览器 自定义快捷键
 
