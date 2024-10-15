@@ -90,8 +90,11 @@ _✨ mizuhokaga 软件清单-Windows部分  ✨_
 - java : 使用 zulu 的 openJDK,[Zulu OpenJDK](https://www.azul.com/downloads/#zulu) ,现已用 vfox 管理版本
 - [python](https://www.python.org/): python SDK ,现已用 vfox 管理版本
 - [VS code](https://code.visualstudio.com/): 主力前端开发 IDE 兼 高级剪贴板,配置通过 GitHub 账号同步
+
 - [Typora](https://typora.io/) : 写 Markdown ,已入正 ,激活码在 Gmail 中搜 Typora
   - [DrakeTyporaTheme](https://github.com/liangjingkanji/DrakeTyporaTheme) : Typora 主题
+- [doki-theme](https://doki-theme.unthrottled.io/products) : IDE二次元人物主题,支持的IDE包括不限于 VS code/Jetbrain全家桶等
+
 - [Sublime Text](https://www.sublimetext.com/) : 高级剪贴板,但由于快捷键和 vs code 大相径庭,只是偶尔用用
 
 ### 前端编程
