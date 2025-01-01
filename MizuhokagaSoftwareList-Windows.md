@@ -1,10 +1,12 @@
 <div align="center">
 
 # MizuhokagaSoftwareList-Windows
+
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable-next-line MD036 -->
 _✨ mizuhokaga 软件清单-Windows部分  ✨_
 <!-- prettier-ignore-end -->
+
 </div>
 
 ## C-commSoftware
@@ -37,6 +39,7 @@ _✨ mizuhokaga 软件清单-Windows部分  ✨_
 - 2345 看图王 : 习惯使用的照片查看软件,用的是网上修改的去广告版
 - 软媒魔方 Docker : 实现 Mac 软件坞效果的小巧软件,美观易用
 - [Steam](https://store.steampowered.com/) : 游戏分发平台
+- [Steamcommunity 302](https://www.dogfight360.com/blog/686/) : 解决Steam社区刷新失败的问题
 - Wallpaper Engine : 动态壁纸软件,多屏养眼神器
 
 ### 图书管理
@@ -116,7 +119,7 @@ _✨ mizuhokaga 软件清单-Windows部分  ✨_
 
 ### 远程连接
 
-- [XTerminal](https://terminal.icu/) | [MobaXterm](https://mobaxterm.mobatek.net/) : SSH工具,XTerminal 收费但小功能细节比 MobaXterm 好用,目前逐渐转向 XTerminal
+- [XTerminal](https://terminal.icu/) | [MobaXterm](https://mobaxterm.mobatek.net/) : SSH 工具,XTerminal 收费但小功能细节比 MobaXterm 好用,目前逐渐转向 XTerminal
 - [MobaXterm](https://github.com/malaohu/MobaXterm-GenKey) : 之前习惯的 SSH 工具,虽然被 XTerminal 替代了但是由于支持多种协议(FTP、SFTP 和 RDP 等)仍然会保留
 - Cisco Secure Client : 连接公司内网的 VPN 工具
 
