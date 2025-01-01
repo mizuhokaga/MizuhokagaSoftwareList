@@ -27,17 +27,18 @@ _✨ mizuhokaga 软件清单-Windows部分  ✨_
 
 - [StartAllBack](https://lizhi.shop/site/products/id/233) : Win 开始菜单任务栏增强工具，为了解决目前 win11 任务栏不能置于左侧的问题,已在数码荔枝入正
 - [Listary Pro](https://lizhi.shop/site/products/id/58) : 本地文件搜索工具,软件快捷启动器,已在数码荔枝入正
-- [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/all/#product-desktop-release) : 日常习惯使用的浏览器,定制浏览器工具栏的功能是刚需,插件列表见附录 1
-- [Chrome](https://www.google.com/intl/en_sg/chrome/) : 谷歌浏览器,用于访问特定网站,确保与 Firefox 的浏览记录隔离,相比无痕浏览我更喜欢软件层面隔离
 - [PixPin](https://pixpinapp.com/) : 带 OCR 的截图/贴图工具,用于替换 [Snipaste](https://www.snipaste.com/)
 - [7-zip](https://7-zip.org/) | ([BandZip](https://www.bandisoft.com/bandizip/)) : 解压缩软件,BandZip 虽然有广告但是习惯了,7-zip 习惯专用于.7z 格式
 - [图吧工具箱](https://www.tbtool.cn/) :内置了 Everthing、AIDA64、水晶雫 DiskInfo 等大量实用工具
 - [PowerToys](https://github.com/microsoft/PowerToys/) : 微软官方的小工具合集,一般用于快捷键重新映射
 - [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) : 显示当前网速、CPU 及内存利用率的桌面悬浮窗软件，也支持任务栏显示
-- 在人间 : VPN
-- [百度网盘](https://pan.baidu.com/) : 备份、下载资源,目前买了年费会员
-- 2345 看图王 : 习惯使用的照片查看软件,用的是网上修改的去广告版
 - 软媒魔方 Docker : 实现 Mac 软件坞效果的小巧软件,美观易用
+-
+- VPN : VPN
+- 2345 看图王 : 习惯使用的照片查看软件,用的是网上修改的去广告版
+- [百度网盘](https://pan.baidu.com/) : 备份、下载资源,目前买了年费会员
+- [Chrome](https://www.google.com/intl/en_sg/chrome/) : 谷歌浏览器,用于访问特定网站,确保与 Firefox 的浏览记录隔离,相比无痕浏览我更喜欢软件层面隔离
+- [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/all/#product-desktop-release) : 日常习惯使用的浏览器,定制浏览器工具栏的功能是刚需,插件列表见附录 1
 - [Steam](https://store.steampowered.com/) : 游戏分发平台
 - [Steamcommunity 302](https://www.dogfight360.com/blog/686/) : 解决Steam社区刷新失败的问题
 - Wallpaper Engine : 动态壁纸软件,多屏养眼神器
@@ -51,6 +52,7 @@ _✨ mizuhokaga 软件清单-Windows部分  ✨_
 ### 视频音频
 
 - [PotPlayer](https://potplayer.tv/) : 习惯使用的视频播放器
+  - [无边框皮肤设置](http://www.potplayercn.com/skins/2934.html)
 
 ### 聊天通讯
 
@@ -59,13 +61,16 @@ _✨ mizuhokaga 软件清单-Windows部分  ✨_
 
 ### 办公软件
 
-- [WPS Office](https://www.wps.cn/): 免费使用,所以替代 Office，安装后 win+s 搜`配置工具`关闭广告
+- [WPS Office](https://www.wps.cn/): 替代 Office
+  - 安装后 win+s 搜 `配置工具` 关闭广告
 - [腾讯会议](https://meeting.tencent.com/) : 工作交流远程开会
 
 ### 系统重装
 
 - [傲梅分区助手](https://www.disktool.cn/): 无损分区工具
-- [Windows 11 安装助手](https://www.microsoft.com/zh-cn/software-download/windows11/): 微软官方的 Windows 11 安装/重装软件.[win10 是这个](https://www.microsoft.com/zh-cn/software-download/windows10%20),Win10 密钥可以试试：W269N-WFGWX-YVC9B-4J6C9-T83GX
+- DiskGenius : 图吧工具箱的附带的分区工具
+- [Windows 11 安装助手](https://www.microsoft.com/zh-cn/software-download/windows11/): 微软官方的 Windows 11 安装/重装软件.
+  - [win10 是这个](https://www.microsoft.com/zh-cn/software-download/windows10%20),Win10 密钥可以试试：W269N-WFGWX-YVC9B-4J6C9-T83GX
 
 ### 暂未分类
 
@@ -83,12 +88,15 @@ _✨ mizuhokaga 软件清单-Windows部分  ✨_
   - git config --list
   - ssh-keygen
 - node | npm | yarn : 前端基础组件,现已用 vfox 管理版本
-- java : 使用 zulu 的 openJDK,[Zulu OpenJDK](https://www.azul.com/downloads/#zulu)
-- [python](https://www.python.org/): python SDK
+- java : 使用 zulu 的 openJDK,[Zulu OpenJDK](https://www.azul.com/downloads/#zulu) ,现已用 vfox 管理版本
+- [python](https://www.python.org/): python SDK ,现已用 vfox 管理版本
 - [VS code](https://code.visualstudio.com/): 主力前端开发 IDE 兼 高级剪贴板,配置通过 GitHub 账号同步
-- [Sublime Text](https://www.sublimetext.com/) : 高级剪贴板,但由于快捷键和 vs code 大相径庭,只是偶尔用用
+
 - [Typora](https://typora.io/) : 写 Markdown ,已入正 ,激活码在 Gmail 中搜 Typora
   - [DrakeTyporaTheme](https://github.com/liangjingkanji/DrakeTyporaTheme) : Typora 主题
+- [doki-theme](https://doki-theme.unthrottled.io/products) : IDE二次元人物主题,支持的IDE包括不限于 VS code/Jetbrain全家桶等
+
+- [Sublime Text](https://www.sublimetext.com/) : 高级剪贴板,但由于快捷键和 vs code 大相径庭,只是偶尔用用
 
 ### 前端编程
 
@@ -127,7 +135,7 @@ _✨ mizuhokaga 软件清单-Windows部分  ✨_
 
 #### 附录 1 FireFox 插件清单
 
-- 篡改猴 : 编写脚本增强网上冲浪体验,脚本备份在 GoogleDrive
+- 篡改猴 : 编写脚本增强网上冲浪体验,脚本清单备份在 GoogleDrive ,也可以参考附录2
 - 浮图秀 : 鼠标悬浮图片上放大图片,主要用于查看视频网站封面、头像等
 - BiliMini : Bilibili 通知工具
 - Custom Scrollbars : 个性化滚动条,滚动条颜色设置 #e03997
@@ -136,14 +144,19 @@ _✨ mizuhokaga 软件清单-Windows部分  ✨_
 - Vimium C : 全键盘操作浏览器的工具
 - SingleFile : 将页面保存未单个 HTML 文件
 - OneTab : 标签页存储器
-- AdBlocker : 广告屏蔽
-
+- AdBlocker Ultimate : 广告屏蔽
+- 沙拉查词 : 网页划词翻译
+- 沉浸式翻译 : 一键翻译网页
+- Dark Reader : 网页暗色
+- Octotree - GitHub code tree : GitHub树状结构查看repo文件
+- SingleFile : 将一个完整的页面保存到单个 HTML 文件中,用于归档网页至本地
 - Sleeping Hatsune Miku Animated : miku 动态主题
 
 #### 附录 2 篡改猴脚本清单
 
 - [AC-baidu-重定向优化百度搜狗谷歌必应搜索*favicon*双列](https://greasyfork.org/zh-TW/scripts/14178-ac-baidu-%E9%87%8D%E5%AE%9A%E5%90%91%E4%BC%98%E5%8C%96%E7%99%BE%E5%BA%A6%E6%90%9C%E7%8B%97%E8%B0%B7%E6%AD%8C%E5%BF%85%E5%BA%94%E6%90%9C%E7%B4%A2-favicon-%E5%8F%8C%E5%88%97)
 - Bilibili Evolved
+- bilibili 页面净化大师 : 多种方式自定义屏蔽,过滤不想看的首页推荐视频
 - CSDN 去广告沉浸阅读模式
 - 本地 YouTube 下載器
 - 知乎增强
@@ -151,6 +164,7 @@ _✨ mizuhokaga 软件清单-Windows部分  ✨_
 - Pixiv 增强
 - 贴吧全能助手(第三方修改)
 - 网盘自动填写访问码【威力加强版】
+- Youtube油管视频播放量优化显示
 
 #### 附录 3 Vimium C - 全键盘操作浏览器 自定义快捷键
 
@@ -177,3 +191,11 @@ map o Vomnibar.activateInNewTab
 解密使用[在线文本解密工具](https://uutool.cn/txt-decrypt/)，密钥是真真（我相信你你不会忘记对应的谜底）
 
 - 国内 : R5uSNB5Cbh6gbuicFMKvdO5mLMjh5MnKBNSwXgjy+2Q=
+
+### 附录 5 目录结构与文件管理
+
+- X:(盘符)
+  - A-archieve
+  - B-baiduNetdiskDownload
+  - C-commSoftware
+  - D-devSoftware
