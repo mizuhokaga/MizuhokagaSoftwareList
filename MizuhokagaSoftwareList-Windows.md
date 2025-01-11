@@ -33,14 +33,13 @@ _✨ mizuhokaga 软件清单-Windows部分  ✨_
 - [PowerToys](https://github.com/microsoft/PowerToys/) : 微软官方的小工具合集,一般用于快捷键重新映射
 - [TrafficMonitor](https://github.com/zhongyang219/TrafficMonitor) : 显示当前网速、CPU 及内存利用率的桌面悬浮窗软件，也支持任务栏显示
 - 软媒魔方 Docker : 实现 Mac 软件坞效果的小巧软件,美观易用
--
-- VPN : VPN
+- VPN + 常用机场: VPN
 - 2345 看图王 : 习惯使用的照片查看软件,用的是网上修改的去广告版
 - [百度网盘](https://pan.baidu.com/) : 备份、下载资源,目前买了年费会员
 - [Chrome](https://www.google.com/intl/en_sg/chrome/) : 谷歌浏览器,用于访问特定网站,确保与 Firefox 的浏览记录隔离,相比无痕浏览我更喜欢软件层面隔离
 - [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/all/#product-desktop-release) : 日常习惯使用的浏览器,定制浏览器工具栏的功能是刚需,插件列表见附录 1
 - [Steam](https://store.steampowered.com/) : 游戏分发平台
-- [Steamcommunity 302](https://www.dogfight360.com/blog/686/) : 解决Steam社区刷新失败的问题
+- [Steamcommunity 302](https://www.dogfight360.com/blog/686/) : 解决 Steam 社区刷新失败的问题
 - Wallpaper Engine : 动态壁纸软件,多屏养眼神器
 
 ### 图书管理
@@ -76,7 +75,7 @@ _✨ mizuhokaga 软件清单-Windows部分  ✨_
 
 - [向日葵远程控制](https://sunlogin.oray.com/download) : 习惯的远程控制软件
 
-## D-devSoftware
+## D-developSoftware
 
 ### 基础工具
 
@@ -88,15 +87,12 @@ _✨ mizuhokaga 软件清单-Windows部分  ✨_
   - git config --list
   - ssh-keygen
 - node | npm | yarn : 前端基础组件,现已用 vfox 管理版本
-- java : 使用 zulu 的 openJDK,[Zulu OpenJDK](https://www.azul.com/downloads/#zulu) ,现已用 vfox 管理版本
-- [python](https://www.python.org/): python SDK ,现已用 vfox 管理版本
-- [VS code](https://code.visualstudio.com/): 主力前端开发 IDE 兼 高级剪贴板,配置通过 GitHub 账号同步
-
+- java | maven | python 等后端SDK: 使用 zulu 的 openJDK,[Zulu OpenJDK](https://www.azul.com/downloads/#zulu) ,现在后端SDK均已用 vfox 管理版本
+- [VS code](https://code.visualstudio.com/) : 主力前端开发 IDE 兼 高级剪贴板,配置通过 GitHub 账号同步。现在除开java开发外,其他代码编写均逐渐转移至此!
 - [Typora](https://typora.io/) : 写 Markdown ,已入正 ,激活码在 Gmail 中搜 Typora
   - [DrakeTyporaTheme](https://github.com/liangjingkanji/DrakeTyporaTheme) : Typora 主题
-- [doki-theme](https://doki-theme.unthrottled.io/products) : IDE二次元人物主题,支持的IDE包括不限于 VS code/Jetbrain全家桶等
+- [doki-theme](https://doki-theme.unthrottled.io/products) : IDE 二次元人物主题,支持的 IDE 包括不限于 VS code/Jetbrain 全家桶等
 
-- [Sublime Text](https://www.sublimetext.com/) : 高级剪贴板,但由于快捷键和 vs code 大相径庭,只是偶尔用用
 
 ### 前端编程
 
@@ -122,20 +118,21 @@ _✨ mizuhokaga 软件清单-Windows部分  ✨_
 
 - [DBeaver](https://dbeaver.io/download/) : 开源数据库可视化工具,支持的数据库比 navicat 多
 - [Navicat Premium Lite](https://www.navicat.com.cn/download/navicat-premium-lite) : mysql 的数据库导入导出功能比 DBeaver 好用,使用 Navicat Premium Lite 就能满足我目前的需求。备份等功能还是建议 [Navicat Premium](https://github.com/yrmatou/Navicat-Premium-15)
-- [Redis for Windows](https://github.com/zkteco-home/redis-windows) ： 非官方版本 win redis,clone 下来以管理员权限执行`install_redis.cmd`.repo: https://github.com/zkteco-home/redis-windows
-- [AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager) ： Redis 桌面 GUI 管理客户端
+- [Redis for Windows](https://github.com/zkteco-home/redis-windows) ： 非官方版本 win redis,clone 下来以管理员权限执行`install_redis.cmd`.
+  - [AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager) ： Redis 桌面 GUI 管理客户端
 
 ### 远程连接
 
-- [XTerminal](https://terminal.icu/) | [MobaXterm](https://mobaxterm.mobatek.net/) : SSH 工具,XTerminal 收费但小功能细节比 MobaXterm 好用,目前逐渐转向 XTerminal
+- [XTerminal](https://terminal.icu/) : 云同步功能等功能解决了我使用MobaXterm的痛点
 - [MobaXterm](https://github.com/malaohu/MobaXterm-GenKey) : 之前习惯的 SSH 工具,虽然被 XTerminal 替代了但是由于支持多种协议(FTP、SFTP 和 RDP 等)仍然会保留
+- [putty](https://www.putty.org/)+[winscp](https://winscp.net/eng/download.php) : 公司个别堡垒机只能使用putty,别无选择
 - Cisco Secure Client : 连接公司内网的 VPN 工具
 
 ---
 
 #### 附录 1 FireFox 插件清单
 
-- 篡改猴 : 编写脚本增强网上冲浪体验,脚本清单备份在 GoogleDrive ,也可以参考附录2
+- 篡改猴 : 编写脚本增强网上冲浪体验,脚本清单备份在 GoogleDrive ,也可以参考附录 2
 - 浮图秀 : 鼠标悬浮图片上放大图片,主要用于查看视频网站封面、头像等
 - BiliMini : Bilibili 通知工具
 - Custom Scrollbars : 个性化滚动条,滚动条颜色设置 #e03997
@@ -148,7 +145,7 @@ _✨ mizuhokaga 软件清单-Windows部分  ✨_
 - 沙拉查词 : 网页划词翻译
 - 沉浸式翻译 : 一键翻译网页
 - Dark Reader : 网页暗色
-- Octotree - GitHub code tree : GitHub树状结构查看repo文件
+- Octotree - GitHub code tree : GitHub 树状结构查看 repo 文件
 - SingleFile : 将一个完整的页面保存到单个 HTML 文件中,用于归档网页至本地
 - Sleeping Hatsune Miku Animated : miku 动态主题
 
@@ -164,7 +161,7 @@ _✨ mizuhokaga 软件清单-Windows部分  ✨_
 - Pixiv 增强
 - 贴吧全能助手(第三方修改)
 - 网盘自动填写访问码【威力加强版】
-- Youtube油管视频播放量优化显示
+- Youtube 油管视频播放量优化显示
 
 #### 附录 3 Vimium C - 全键盘操作浏览器 自定义快捷键
 
@@ -198,4 +195,4 @@ map o Vomnibar.activateInNewTab
   - A-archieve
   - B-baiduNetdiskDownload
   - C-commSoftware
-  - D-devSoftware
+  - D-developSoftware
