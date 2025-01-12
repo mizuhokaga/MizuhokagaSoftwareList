@@ -13,7 +13,7 @@ _✨ mizuhokaga 软件清单-Windows部分  ✨_
 
 ### 基础必装软件
 
-- [maple-font](https://github.com/subframe7536/maple-font) [maple-UI](https://github.com/subframe7536/maple-font/blob/other-resources/cn-resource/maple-ui/Maple%20UI.ttf) : 带连字和圆角的等宽字体、控制台字体和 UI 字体, 用于替换[Sarasa Gothic](https://github.com/be5invis/Sarasa-Gothic) 等宽字体,
+- [maple-font](https://github.com/subframe7536/maple-font) | [maple-UI](https://github.com/subframe7536/maple-font/blob/other-resources/cn-resource/maple-ui/Maple%20UI.ttf) : 带连字和圆角的等宽字体、控制台字体和 UI 字体, 用于替换[Sarasa Gothic](https://github.com/be5invis/Sarasa-Gothic) 等宽字体,
 - aio-runtimes : dll 一键全装工具,一键解决 ddl/c++运行库问题
 - [シスター・クレア -SisterClaire- 鼠标皮肤](https://www.youtube.com/@Sister_Claire) : 修女克蕾雅的鼠标皮肤，用了很久了，喜欢克蕾雅也很久了
 
@@ -87,12 +87,11 @@ _✨ mizuhokaga 软件清单-Windows部分  ✨_
   - git config --list
   - ssh-keygen
 - node | npm | yarn : 前端基础组件,现已用 vfox 管理版本
-- java | maven | python 等后端SDK: 使用 zulu 的 openJDK,[Zulu OpenJDK](https://www.azul.com/downloads/#zulu) ,现在后端SDK均已用 vfox 管理版本
-- [VS code](https://code.visualstudio.com/) : 主力前端开发 IDE 兼 高级剪贴板,配置通过 GitHub 账号同步。现在除开java开发外,其他代码编写均逐渐转移至此!
+- java | maven | python 等后端 SDK: 使用 zulu 的 openJDK,[Zulu OpenJDK](https://www.azul.com/downloads/#zulu) ,现在后端 SDK 均已用 vfox 管理版本
+- [VS code](https://code.visualstudio.com/) : 主力前端开发 IDE 兼 高级剪贴板,配置通过 GitHub 账号同步。现在除开 java 开发外,其他代码编写均逐渐转移至此!
 - [Typora](https://typora.io/) : 写 Markdown ,已入正 ,激活码在 Gmail 中搜 Typora
   - [DrakeTyporaTheme](https://github.com/liangjingkanji/DrakeTyporaTheme) : Typora 主题
 - [doki-theme](https://doki-theme.unthrottled.io/products) : IDE 二次元人物主题,支持的 IDE 包括不限于 VS code/Jetbrain 全家桶等
-
 
 ### 前端编程
 
@@ -123,9 +122,9 @@ _✨ mizuhokaga 软件清单-Windows部分  ✨_
 
 ### 远程连接
 
-- [XTerminal](https://terminal.icu/) : 云同步功能等功能解决了我使用MobaXterm的痛点
+- [XTerminal](https://terminal.icu/) : 云同步功能等功能解决了我使用 MobaXterm 的痛点
 - [MobaXterm](https://github.com/malaohu/MobaXterm-GenKey) : 之前习惯的 SSH 工具,虽然被 XTerminal 替代了但是由于支持多种协议(FTP、SFTP 和 RDP 等)仍然会保留
-- [putty](https://www.putty.org/)+[winscp](https://winscp.net/eng/download.php) : 公司个别堡垒机只能使用putty,别无选择
+- [putty](https://www.putty.org/)+[winscp](https://winscp.net/eng/download.php) : 公司个别堡垒机只能使用 putty,别无选择
 - Cisco Secure Client : 连接公司内网的 VPN 工具
 
 ---
