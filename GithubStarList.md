@@ -107,6 +107,8 @@
 - [repkg](https://github.com/notscuffed/repkg) : Wallpaper engine PKG extractor/TEX to image converter , 解包 Wallpaper engine 下载的壁纸
 
 - [unrpa](https://github.com/notscuffed/repkg) : A program to extract files from the RPA archive format , 解压 renpy 游戏的资源包
+
+- [GARbro](https://github.com/morkt/GARbro) : Visual Novels resource browser  , 解压 gal 游戏的资源包
 </details>
 
 <span></span>
